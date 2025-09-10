@@ -25,7 +25,7 @@ As mentioned earlier, we also used SMOTE to handle issues with the imbalanced da
 
 ## 4. Load models to display predictions on app
 
-Finally, using Flask and HTML/CSS, we created the user-facing app to add information to our data set matching our initial dataframe to predict the likelihood of a customer departing the bank. This was then deployed to Heroku. In November 2022 it was moved to Render and it can be found at this URL: [https://bank-churn-predictions.onrender.com](https://bank-churn-predictions.onrender.com)
+Finally, using Flask and HTML/CSS, we created the user-facing app to add information to our data set matching our initial dataframe to predict the likelihood of a customer departing the bank. This was then deployed to Heroku. URL: [https://bank-churn-predictions.onrender.com](https://bank-churn-predictions.onrender.com)
 
 ## References
 
