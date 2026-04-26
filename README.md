@@ -39,7 +39,12 @@ Input data aligned with training pipeline for consistent predictions
 
 ## 4. Load models to display predictions on app
 A Streamlit-based web application that predicts whether a bank customer is likely to exit (churn) or stay, using multiple Machine Learning models.
-
+5. Output 
+Prediction from each ML model:
+Customer Exits or 
+Customer Stays. 
+Final majority verdict & 
+Clean UI cards for easy comparison.
 ## References
 
 - [Kaggle - Churn Modelling Calssification Data Set](https://www.kaggle.com/shrutimechlearn/churn-modelling)
